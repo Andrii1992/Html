@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html>
+</html>
+
+<head>
+</head>
+
+<body>
+</body>
+
+<p>  teg abzac
+</p>
+ 
+<h>  zagolowka
+<h>
+
+<b> </b> zyrnyj tekst
+<strong>
+</strong>
+
+
+<i> </i>    pisano
+<em> </em>
+
+
+<strike>   pereczorkiwanie
+</strike>
+
+<u>   (underline) podczorkiwanie 
+</u>
+
+
+ <p><abbr title="NON STOP">Hej</abbr></p>  abriwiatura(nawigacja)
+
+
+<address> Adres szrysft
+</address>
