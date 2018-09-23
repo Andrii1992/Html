@@ -1,0 +1,23 @@
+<small>   malenkij
+</small> 
+
+<big>     bolshoj
+<big>
+
+<pre>          probely
+</pre>
+
+<blockquote>   cytata
+</blockquote>
+
+<q>            cytata w kawyczkach 
+</q>
+
+<hr />         linija horyzontalna
+
+<br />         puste stroki 
+
+<p align="justify"> helomoto </p>
+<p align="center"> helomoto </p>    wyrawniwanie po <p align="right"> helomoto </p>    szyrynie, center,
+                                        prawo
+
