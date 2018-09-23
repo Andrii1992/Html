@@ -16,6 +16,8 @@
 <hr />         linija horyzontalna
 
 <br />         puste stroki 
+<nobr>         sjedaet pustye stroki (w liniu)  
+</nobr>
 
 <p align="justify"> helomoto </p>
 <p align="center"> helomoto </p>    wyrawniwanie po <p align="right"> helomoto </p>    szyrynie, center,
