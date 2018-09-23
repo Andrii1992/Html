@@ -20,6 +20,7 @@
 </nobr>
 
 <p align="justify"> helomoto </p>
-<p align="center"> helomoto </p>    wyrawniwanie po <p align="right"> helomoto </p>    szyrynie, center,
+<p align="center"> helomoto </p>    wyrawniwanie po
+<p align="right"> helomoto </p>    szyrynie, center,
                                         prawo
 
