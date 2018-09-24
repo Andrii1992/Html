@@ -1,0 +1,76 @@
+   <ol>            - spisok
+         <li>      - element spiska
+         Dobryj
+         </li>
+         <li>
+         Den
+         </li>
+   </ol>
+
+    <p>
+    <ol type="I">   - numeracyja latinskaja
+     <li>Odyn</li>
+     <li>Dwa</li>
+     <li>Tri</li>
+    </ol>
+   </p>
+   
+    <p>
+    <ol type="i">   - numeracyja latinskaja malye
+     <li>Odyn</li>
+     <li>Dwa</li>
+     <li>Tri</li>
+    </ol>
+   </p>
+ 
+   <p>
+    <ol type="a">    - numeracyja alfabet
+     <li>Odyn</li>
+     <li>Dwa</li>
+     <li>Tri</li>
+    </ol>
+   </p>
+ 
+   <p>
+    <ol type="a" start="3">   - numeracyja s 3
+     <li>Odyn</li>
+     <li>Dwa</li>
+     <li>Tri</li>
+    </ol>
+   </p>
+   
+   <p>
+    <ol reversed="reversed">   - numeracyja naoborot
+     <li>Odyn</li>
+     <li>Dwa</li>
+     <li>Tri</li>
+    </ol>
+   </p>   
+
+
+
+   <ul>
+    <li>.....</li>          - nienumeracyjnyj spisok
+    <li>.....</li>
+   </ul>
+   
+   <ul type="circle">       - nienumeracyjnyj spisok s
+    <li>.....</li>            spiskom z kruzkami bielimi
+    <li>.....</li>
+   </ul>
+
+   <ul type="squere">
+    <li>.....</li>
+    <li>.....</li>
+   </ul>
+  
+   <dir>                    - to samoe szto i ul no z bolszym 
+    <li>...1..</li>           odstupom (ludsze nie ispolzowat)
+    <li>...1..</li>
+   </dir>
+
+
+
+
+
+   
