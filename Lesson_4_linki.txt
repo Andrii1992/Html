@@ -1,0 +1,10 @@
+<a href="https://www.google.com">Gogle</a>   link 
+
+<a href="https://www.google.com" target="_blank">
+Gogle</a>                                   
+                                             link w nowoj                                              wkladkie
+
+
+<a href="https://www.google.com" title="Gogle">
+Gogle</a>                                   
+                                             link s podkazkoj
