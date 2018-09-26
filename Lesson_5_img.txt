@@ -1,0 +1,15 @@
+<img src="adres sylka"/>     
+
+<img src="adres s" width="40%" heigh="100%"/>    romier w                                                  procentach 
+                                             (mozna w pixelach)
+
+
+<img src="adres sylka" alt="Not"/>           jesli nie zagruzilos
+                                              pokazet not
+
+<img src="adres sylka" border="10px" />      obramlenie 10px
+
+
+ 
+ 
+              
