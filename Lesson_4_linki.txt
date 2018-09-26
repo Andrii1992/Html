@@ -1,0 +1,17 @@
+<a href="https://www.google.com">Gogle</a>   link 
+
+<a href="https://www.google.com" target="_blank">
+Gogle</a>                                   
+                                             link w nowoj                                              wkladkie
+
+
+<a href="https://www.google.com" title="Gogle">
+Gogle</a>                                   
+                                             link s podkazkoj
+
+
+<a href="#gt1">Nawigacja</a>                 link nawigacji saitu
+<a name="gt1"> </a>                          punkt niwigacji
+
+
+<a href="mailto:andrij@wp.pl">E-mail</a>      link E-mail
