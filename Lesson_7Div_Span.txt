@@ -1,0 +1,31 @@
+<div> </div>      mozna prirowniat k abzacu 
+                  no zo stilami wsio inacze
+
+<span> </span>    jak i div primeniajetsia tolko 
+                  so stiliami bez css nie nuzny
+
+ <details>
+   <sumary>sss</sumary>
+   <p>
+      .....................
+      .....................
+   </p>
+ </details>                detale otkrywane
+
+
+ <mark>rubby </mark>       markernoe wydelenie
+ 
+  <ruby>                   piszet nad znakom
+   2<rt>Dwa</rt>
+   1<rt>Jeden</rt>
+  </ruby>
+
+
+ <progress max="100" value="56">             
+  Zaladowano na <span id="value">25</span>
+ </progress> 
+
+
+  <form oninput="result.value=(xx.value-36)">
+  <input type="number" name="xx" autofocus>
+  <output name="result">0</output>

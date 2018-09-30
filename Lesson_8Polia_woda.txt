@@ -1,0 +1,69 @@
+ <form name="test" action="" method="post">
+    <p align="right">
+     <label  for="zt2" > Wprowadz : </label>
+     <input type="text" placeholder="Szukaj..." id="zt2" title="Wprowadz tekst"
+     maxlength="8"/> 
+    </p>
+  </form> 
+
+  <input type="date" />     data
+
+  <input type="week" />     nedela
+ 
+  <input type="range" />    powzunok
+  
+  <input type="radio" />    tak nie
+
+     <label>Czy podoba ci sie nasza strona?</label> <br /> 
+     <label for="tak">Tak</label> <input type="radio" name="es1" id="tak" /> 
+     <label for="nie">Nie</label> <input type="radio" name="es1" id="nie"/>
+                             sztoby byl tolko odyn 
+                             wybor name to ze samoe
+                             id pry kliku na tekst
+
+  <input type="button" value="Java bez perezagruzki"/>
+  <input type="submit" value="PHP z perezagruzkoj"/>
+                            
+                             te samye funkcyy
+                               
+  <input type="reset" value="Reset"/> 
+
+                             reset czystyt w swoem bloke
+
+  <textarea rows="10" cols="45"></textarea>
+
+                             tekst w bolszoj ramkie
+  
+  <button>Ddpraw</button>    tosamoe szto input
+
+
+      <select>
+        <option disabled="disabled">Wybiez</option>
+        <option value="jeden"> 1 </option>
+        <option value="dwa"> 2 </option>         
+      </select>         
+                              wybor so spiska
+
+<audio loop="loop" autoplay="autoplay" controls="controls">
+<source src="C:\4638_Vanotek_feat-En.mp3" type="audio/mpeg">
+</audio>   
+
+
+<video loop="loop" autoplay poster="C:\300x300.jpg" controls="controls">
+<source src="C:\Fifth Harmony - Work from Home ft. Ty Dolla $ign.mp4" type="video/mp4">
+</video>                                   
+ 
+      
+<audio autoplay="autoplay" controls="controls">
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="C:\4638_Vanotek_feat-En.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio> 
+  
+
+
+
+
+ 4<sub>2</sub> 2 nyze 4
+
+ 4<sup>2 </sup> 2 wysze 4
